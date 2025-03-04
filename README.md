@@ -108,4 +108,38 @@ Matplotlib, Seaborn, Plotly 등의 강력한 라이브러리를 활용하여
 
 ---
 
-⚠️ **이 자료는 개인 학습을 위한 것이며, 무단 전재 및 재배포를 금지합니다.**  
+⚠️ **이 자료는 개인 학습을 위한 것이며, 무단 전재 및 재배포를 금지합니다.**    
+
+
+## 강의 안내
+
+위의 수업 내용은 강남 아이티윌 교육센터에서 수강하실 수 있습니다.
+
+### 👨‍🏫 강사
+**강남 아이티윌 교육센터 유연수 강사**
+
+### 🏆 수강생 실적
+- 수료생 추천 1위! 
+- 누적 수강생 2천명 돌파!
+- 비전공자, 입문자도 가능한 데이터 분석 전문가 과정 수업 진행 !  
+
+### 📞 문의하기
+- **전화 문의:** 02-6255-8002
+- **카카오톡 문의:** [아이티윌 상담 페이지](https://www.itwill.co.kr/cmn/sym/mnu/mpm/1061100/htmlMenuView.do)
+
+### ⚡ SQL 관련 온라인 강좌 추천
+
+
+### **초보자도 쉽게 배우는 SQL200제**
+
+<a href="https://www.inflearn.com/course/데이터-분석가-실무-sql" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/oracleyu01/statistics/blob/main/yys/SQL200.png" alt="SQL200" style="width:300px;">
+</a>
+   
+
+아래의 url 을 복사하셔서 접속하시면 됩니다.
+
+`https://www.inflearn.com/course/데이터-분석가-실무-sql`
+
+&nbsp;  
+
