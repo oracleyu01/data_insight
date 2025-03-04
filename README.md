@@ -8,6 +8,9 @@ Matplotlib, Seaborn, Plotly 등의 강력한 라이브러리를 활용하여
 
 **실무에서 활용 가능한 시각화 스킬을 익혀보세요!** 🚀    
 
+<img src="https://github.com/oracleyu01/python_class/blob/main/data/python_visi.png" width="600" height="400">
+
+
 &nbsp;  
 
 ## 📌 강의 소개
